@@ -1,0 +1,10 @@
+{
+  "name": "gpx-make",
+  "version": "1.0.0",
+  "description": "Generate a GPX file given a coordinate. Useful for simulating your location in Xcode.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "keywords": ["gpx", "location", "Xcode"],
+  "author": "Avery Pierce <avery.pierce@pm.me>",
+  "license": "ISC"
+}
